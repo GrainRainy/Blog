@@ -104,7 +104,7 @@ theme: async
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo: git@github.com:GrainRainy/Grainrainy.github.io.git
+  repo: git@github.com:GrainRainy/Blog.git
   branch: pages
 
 # Music Player
