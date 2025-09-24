@@ -134,13 +134,12 @@ toc:
 
 
 # 评论
-## vercel url: https://twikoo-comment-api-eight.vercel.app/
 ## netlify url: https://app.netlify.com/sites/grainrain-twikoo/overview
 comment:
   twikoo:
     enable: true
     visitor: true
-    envId: https://grainrain-twikoo.netlify.app/.netlify/functions/twikoo
+    envId: https://grianrain.netlify.app/.netlify/functions/twikoo
 
 
 # 链接页配置，请见 /source/_data/links.yml
