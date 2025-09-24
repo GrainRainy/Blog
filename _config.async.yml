@@ -134,12 +134,12 @@ toc:
 
 
 # 评论
-## netlify url: https://grianrain.netlify.app/.netlify/functions/twikoo
 comment:
   twikoo:
     enable: true
     visitor: true
-    envId: http://twikoo.jingxugu.com/.netlify/functions/twikoo
+    envId: https://grianrain.netlify.app/.netlify/functions/twikoo
+
 
 # 链接页配置，请见 /source/_data/links.yml
 
